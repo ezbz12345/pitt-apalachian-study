@@ -1,7 +1,8 @@
 # pitt-apalachian-study
 webzone for pitt's apalachian study
 
-# Requirements (made into issues)
+# Requirements 
+[(made into issues)](https://github.com/ezbz12345/pitt-apalachian-study/issues)
 
 1. Public-facing Study Website
     1. Domain name: PAHealthandEnvironmentStudy.pitt.edu
