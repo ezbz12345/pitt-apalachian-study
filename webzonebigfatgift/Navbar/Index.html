@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Supervisor HQ</title>
+    <link rel = stylesheet href="main.css">
+</head>
+    
+<body>
+<nav><ul class="topnav" id="dropdownClick">
+    <li><a class="active" href="#Staff">Staff</a></li>
+    <li><a href="#Supervisors">Supervisors</a></li>
+    <li><a href="#Interviewers">Interviewer</a></li>
+    <li><a href='https://my.pitt.edu'>email plus other things</a></li>
+    <li class="topnav-right"><a href="#Contact">Contact Us</a></li>
+    <li class="dropdownicon"><a href="javascript:void(0);" onclick="dropdownMenu()">&#9776;</a></li>
+    </ul></nav>    
+    
+    <script>
+    function dropdownMenu() {
+        var x = document.getElementById("dropdownClick")
+        if (x.className === "topnav") {
+            x.className += " responsive";
+            /*change topnav to topnav.responsive*/
+        } else {
+            x.className = "topnav";
+            }
+        }
+    </script>
+</body>
+</html>
