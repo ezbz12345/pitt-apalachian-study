@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: "Cancer Study"
+  link: /ccs.html
+- name: "Asthma Study"
+  link: /aeros.html
+- name: About
+  link: /about_us.html
