@@ -1,0 +1,29 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <div class="footer-custom-title">
+        <p>Study for Environmental Risk Factors for ALS</p>
+        <p><a href="https://www.publichealth.pitt.edu/">University of Pittsburgh Graduate School of Public Health</a></p>
+    </div>
+    {% unless page.title == "Contact Us" %}
+      <div class="footer-stuff">
+          <h3>Contact Our ALS Study Office For More Information</h3>
+          <ul>
+            <li>
+              University of Pittsburgh<br>
+              Graduate School of Public Health<br>
+              Department of Epidemiology<br>
+              130 DeSoto Street<br>
+              Pittsburgh, PA 15261
+            </li>
+            <li>412-648-5185</li>
+            <!-- <li>Email: eot1@pitt.edu (Dr. Evelyn Talbott, DrPH, Primary Investigator)</li> -->
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li>Visit <a href="https://www.cdc.gov/als">Centers  for Disease Control and Prevention Website</a> to learn more about ALS</li>
+          </ul>
+      </div>
+    {% endunless %}
+  </div>
+
+</footer>
