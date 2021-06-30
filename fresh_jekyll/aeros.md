@@ -1,6 +1,14 @@
 ---
 layout: single
 title: "Asthma Exacerbations and Reproductive Outcomes Studies"
+
+sidebar:
+  - #title: "University of Pittsburgh"
+    image: /assets/images/pitt_logo_long.png
+    image_alt: "University of Pittsburgh"
+  - #title: "Pennsylvania Department of Health"
+    image: /assets/images/pa_doh.png
+    image_alt: "Pennsylvania Department of Health"
 ---
 
 ## What are we studying? 

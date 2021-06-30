@@ -5,7 +5,7 @@ main:
   url: /ccs.html
 - title: "Asthma Study"
   url: /aeros.html
-- title: "Meet the Team"
-  url: /meet_us.html
+- title: "About the Team"
+  url: /about_us.html
 - title: "Contact Us"
   url: /contact_us.html

@@ -1,6 +1,14 @@
 ---
 layout: single
 title: "Contact Us"
+
+sidebar:
+  - #title: "University of Pittsburgh"
+    image: /assets/images/pitt_logo_long.png
+    image_alt: "University of Pittsburgh"
+  - #title: "Pennsylvania Department of Health"
+    image: /assets/images/pa_doh.png
+    image_alt: "Pennsylvania Department of Health"
 ---
 
 <h3>Contact Our Pitt Office For More Information</h3>

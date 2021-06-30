@@ -4,7 +4,7 @@ title: "About Us"
 ---
 
 <header class="site-header" role="banner">
-  <link rel="stylesheet" href="css/css_main.css">
+  <link rel="stylesheet" href="assets/css/css_main.css">
 </header>
 
 ## Meet the Team
