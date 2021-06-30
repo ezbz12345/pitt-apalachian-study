@@ -1,0 +1,29 @@
+
+
+<img src="assets/VenaJohn_cc.jpg" align="left">{: .profile_pic}
+### John Vena, PhD
+Dr. Vena is Professor and Founding Chair of the Department of Public Health Sciences at the Medical University of South Carolina in Charleston, SC. Dr. Vena serves as a co-investigator on the ALS study. Dr. Vena has over 38 years of experience in environmental and occupational epidemiology. He was part of a team as co-investigator on NIH grants to pioneer integration of biomarkers in epidemiology analytic studies to look at gene-environment interactions, exposure assessments, the use of Geographic Information Systems in epidemiologic research and retrospective assessment of occupational exposures in case-control studies using targeted survey methods, life-time occupational histories and use of job-exposure matrices.
+{: .profile_text}
+
+<img src="assets/Malek_cc.jpg" align="left">{: .profile_pic}
+### Angela M. Malek, PhD, MPH
+Dr. Malek is a Research Associate in the Department of Public Health Sciences at the Medical University of South Carolina. She has over 8 years of research experience in the epidemiology of neurological disorders (ALS, epilepsy, stroke) and chronic disease. Dr. Malek is a co-investigator on the current study.
+{: .profile_text}
+
+
+
+<img src="assets/Vincent_Arena_cc.jpg" align="left">{: .profile_pic}
+### Vincent C. Arena, PhD
+Dr. Arena is an Associate Professor Emeritus of Biostatistics with over 38 years of experience in analyzing and conducting studies that evaluate the association of personal, occupational, and environmental risk factors in disease development. He has collaborated with Dr. Talbott for many years - most recently evaluating environmental risk factors for autism. He brings specific expertise in large scale community and industry-wide studies to this project and serves as a co-investigator.
+{: .profile_text}
+
+
+
+<img src="assets/Rager_Judith_R_cc.jpg" align="left">{: .profile_pic}
+### Judith R. Rager, MPH
+Judith Rager is an epidemiologist in the Department of Epidemiology at the University of Pittsburgh Graduate School of Public Health. She has over 25 years of experience in epidemiology research and has served as a data manager and analyst for a number of environmental epidemiology studies.
+{: .profile_text}
+
+
+
+
