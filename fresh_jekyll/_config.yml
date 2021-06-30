@@ -38,9 +38,12 @@ url: "paenv.pitt.edu" # the base hostname & protocol for your site, e.g. http://
 #github_username:  jekyll
 
 # Build settings
-theme: minima
+#theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: air # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Google Analytics
 #google_analytics: UA-39231746-2

@@ -1,8 +1,6 @@
 ---
-layout: page
+layout: single
 title: "Contact Us"
-kramdown:
-  parse_block_html: true
 ---
 
 <h3>Contact Our Pitt Office For More Information</h3>

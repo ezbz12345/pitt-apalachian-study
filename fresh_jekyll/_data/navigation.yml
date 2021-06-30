@@ -1,8 +1,11 @@
-- name: Home
-  link: /
-- name: "Cancer Study"
-  link: /ccs.html
-- name: "Asthma Study"
-  link: /aeros.html
-- name: About
-  link: /about_us.html
+main:
+- title: Home
+  url: /
+- title: "Cancer Study"
+  url: /ccs.html
+- title: "Asthma Study"
+  url: /aeros.html
+- title: "Meet the Team"
+  url: /meet_us.html
+- title: "Contact Us"
+  url: /contact_us.html
