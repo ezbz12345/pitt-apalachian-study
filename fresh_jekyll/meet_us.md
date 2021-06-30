@@ -3,6 +3,10 @@ layout: splash
 title: "About Us"
 ---
 
+<header class="site-header" role="banner">
+  <link rel="stylesheet" href="css/css_main.css">
+</header>
+
 ## Meet the Team
 
 
@@ -10,6 +14,7 @@ title: "About Us"
 <img src="assets/images/talbott_evelyn.jpg" align="left">{: .profile_pic}
 ### Evelyn O. Talbott, DrPH, MPH
 Dr. Talbott is the Principal Investigator for this study. She is a Professor of Epidemiology at the University of Pittsburgh Graduate School of Public Health. She has over 30+ years of experience studying the association of environmental and occupational risk factors and health outcomes. She and Dr Youk, conducted the long-term 20+ year mortality and cancer incidence follow-up of residents living within five miles of the Three Mile Island nuclear accident. From 2005-2014, Dr Talbott was the director of one of five CDC Academic Centers of Excellence in Environmental Public Health Tracking, and leads the Environmental Epidemiology graduate program. She has worked extensively with PADOH on several cancer cluster investigations (Tranguch gasoline spill), Shalercrest childhood cancer investigation and CDC –PADOH “Asthma and air pollution in PA study” in collaboration with the PA DOH Tracking Program. Her areas of expertise include the investigation of short and long-term effects of air pollution on asthma exacerbations, heart disease and cancer. She has published over 200 peer reviewed articles and chapters based on her work. Dr. Talbott has conducted numerous community-based health studies and works closely with the medical and public health community throughout Pennsylvania. She is a lifelong resident of Southwestern PA.
+{: .profile_text}
 
 <img src="assets/images/buchanich_jeanine.jpg" align="left">{: .profile_pic}
 ### Jeanine Buchanich, PhD, MEd, MPH 
