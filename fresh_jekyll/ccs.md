@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Childhood Cancer Study"
+id: ccs
 
 sidebar:
   - #title: "University of Pittsburgh"

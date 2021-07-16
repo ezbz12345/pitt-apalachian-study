@@ -1,6 +1,7 @@
 ---
 layout: splash 
 title: "About Us"
+id: about
 ---
 
 <header class="site-header" role="banner">

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Contact Us"
+id: contact
 
 sidebar:
   - #title: "University of Pittsburgh"

@@ -1,11 +1,16 @@
 main:
 - title: Home
   url: /
+  id: home
 - title: "Cancer Study"
   url: /ccs.html
+  id: ccs
 - title: "Asthma Study"
   url: /araes.html
+  id: araes
 - title: "About the Team"
   url: /about_us.html
+  id: about
 - title: "Contact Us"
   url: /contact_us.html
+  id: contact
