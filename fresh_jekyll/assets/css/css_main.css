@@ -31,3 +31,27 @@ img
     opacity: 1.0;
     max-width: 200px;
 }
+
+.page__footer {
+	background-color: #003594;
+}
+
+.masthead {
+	background-color: #003594;
+}
+
+.greedy-nav {
+	background-color: #003594;
+}
+
+.greedy-nav a {
+	color: white;
+}
+
+.greedy-nav a:hover {
+	color: white;
+}
+
+.activepage {
+	color: green;
+}
