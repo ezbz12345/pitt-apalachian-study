@@ -16,13 +16,19 @@ sidebar:
 
 We are studying the relationship between childhood cancers and personal, occupational, and environmental risk factors. Childhood cancer is the third leading cause of death in US children, yet there are very few known risk factors. This study will consider some of the risk factors that may play a role. These include, but are not limited to, lifestyle behaviors, residential history, family medical history, occupational exposures, and exposure to unconventional natural gas development activities and other industrial pollutants.
 
+<figure>
+  <img src="/assets/images/kid_faucet_cropped.png">
+</figure>
+
 ## Why is this research being done?
 
 The purpose of this research study is to look at possible risk factors for childhood cancers. We hope that the outcome of this study will add to our knowledge of the personal, occupational, and environmental risk factors for childhood cancers.
 
 ## Who will be asked to participate in this research study?
 
-We are recruiting a case group—families of children with cancer—to compare to a control group—families of children without cancer. Eligible participants will be contacted by the project office regarding participation in this study. 
+We are recruiting a case group—families of children with cancer—to compare to a control group—families of children without cancer. 
+
+Eligible participants will be contacted by the project office regarding participation in this study. 
 
 For the case group, only parents will be asked to participate in this study if they have a child:
 - Who was diagnosed with Acute Lymphocytic Leukemia, Non-Hodgkin's Lymphoma, Central Nervous System tumors, or Ewing’s/Bone cancer between 2010-2019

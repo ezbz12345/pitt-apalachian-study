@@ -81,3 +81,7 @@ img
 .greedy-nav__toggle:hover .navicon, .greedy-nav__toggle:hover .navicon::before, .greedy-nav__toggle:hover .navicon::after {
 	background-color: #FFD579;
 }
+
+figure img {
+	border-radius: 0px;
+}

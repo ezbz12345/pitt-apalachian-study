@@ -41,6 +41,11 @@ plugins:
 
 # Google Analytics
 #google_analytics: UA-39231746-2
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "G-3XS7FRBV37"
+    anonymize_ip: true # default
 
 # Exclude from processing.
 # The following items will not be processed, by default.
