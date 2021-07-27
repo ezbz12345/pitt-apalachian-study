@@ -14,7 +14,7 @@ sidebar:
 
 ## What are we studying? 
 
-We are studying the relationship between childhood cancers and personal, occupational, and environmental risk factors. Childhood cancer is the third leading cause of death in US children, yet there are very few known risk factors. This study will consider some of the risk factors that may play a role. These include, but are not limited to, lifestyle behaviors, residential history, family medical history, occupational exposures, and exposure to unconventional natural gas development activities and other industrial pollutants.
+We are studying how exposures to chemicals are potentially linked to childhood cancers.  Childhood cancer is the third-leading cause of death in US children, yet there are very few known risk factors. This study will consider some of the risks that may play a role. These risks include lifestyle behaviors, residential history (where people lived over time), family medical history, potential workplace exposures, and exposures to unconventional natural gas development activities and other industrial pollutants located in Southwestern Pennsylvania.
 
 <figure>
   <img src="/assets/images/kid_faucet_cropped.png">
@@ -22,7 +22,7 @@ We are studying the relationship between childhood cancers and personal, occupat
 
 ## Why is this research being done?
 
-The purpose of this research study is to look at possible risk factors for childhood cancers. We hope that the outcome of this study will add to our knowledge of the personal, occupational, and environmental risk factors for childhood cancers.
+The purpose of this study is to look at possible risk factors for childhood cancers. We hope that the results of this study will help us identify risks of exposures to chemicals where people live and work and how those risks are potentially linked to childhood cancers in Southwestern Pennsylvania. We will specifically focus on finding out which  members from our Southwestern Pennsylvania communities are at high risk for developing childhood cancer potentially linked to chemical exposures and other non-chemical risks. This will help us develop ways to counter these risks.
 
 ## Who will be asked to participate in this research study?
 
@@ -47,11 +47,11 @@ For the control group, only parents will be asked to participate in this study. 
 
 ## What will parents be asked to do?  
 
-Participants will be asked to complete a 45-60 minute telephone interview about personal, occupational, and environmental risk factors. Participants will be compensated for their time.
+Participants will be asked to complete a 45-60 minute telephone interview about  individual, occupational (where they work), and environmental risk factors (e.g. potential chemical exposures where they live). Participants will be compensated for their time.
 
 ## Confidentiality
 
-Any information provided for this research study will be kept strictly confidential and information will be aggregated with no individual identification.
+Any information provided for this research study will be kept strictly confidential. Information shared with others will be grouped and will protect participants so that no one outside of the study team can find out any personal information.
 
 ## Who is paying for this study?
 

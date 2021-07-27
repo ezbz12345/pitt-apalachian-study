@@ -17,11 +17,9 @@ sidebar:
 
 ![image-center](/assets/images/paenv_logo_large_cropped.png){: .align-center}
 
-The University of Pittsburgh Graduate School of Public Health is conducting three separate studies in Southwestern Pennsylvania focusing on personal, occupational, and environmental risk factors and the association with disease. 
+The University of Pittsburgh School of Public Health is conducting three separate studies in Southwestern Pennsylvania focusing on the risks of human exposures to chemicals that may hurt the health of community members where they live or where they work. 
 
-A risk factor is an exposure or characteristic that puts you at greater risk for disease, (for example, cigarette smoking is a risk factor for lung cancer). 
-
-One study will exclusively investigate the relationship between these risk factors and the development of childhood cancers using recruited participants. The other two studies will replicate earlier work on acute health conditions, asthma and birth outcomes, using data from health records and registries.
+The first study will focus on finding out how the risk of exposures to chemicals may be  linked to childhood cancers in Southwestern Pennsylvania. The second and third study will use data and information already available and focus on finding out if risk of exposures to chemicals are related to more cases of asthma and adverse birth outcomes in Southwestern Pennsylvania.
 
 <figure class = "half">
   <img src="/assets/images/landscape_cropped.png">
@@ -32,7 +30,7 @@ One study will exclusively investigate the relationship between these risk facto
 
 # Who We Are
 
-We are researchers from the University of Pittsburgh Graduate School of Public Health who study the role of the environment in the development and risk of diseases. Visit our [About Us](about_us.html) to learn more.
+We are researchers from the University of Pittsburgh School of Public Health who study how exposures to chemicals can hurt the health of people. Pitt Public Health is committed to public health research, teaching, and practice; we focus on real-world challenges facing our communities. Visit [About Us](about_us.html) to learn more.
 
 # Study Information
 
